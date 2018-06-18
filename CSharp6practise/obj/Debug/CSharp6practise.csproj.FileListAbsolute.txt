@@ -1,0 +1,6 @@
+D:\c sharp\Visual Studio 2015\CSharp6practise\CSharp6practise\bin\Debug\CSharp6practise.exe.config
+D:\c sharp\Visual Studio 2015\CSharp6practise\CSharp6practise\bin\Debug\CSharp6practise.exe
+D:\c sharp\Visual Studio 2015\CSharp6practise\CSharp6practise\bin\Debug\CSharp6practise.pdb
+D:\c sharp\Visual Studio 2015\CSharp6practise\CSharp6practise\obj\Debug\CSharp6practise.csprojResolveAssemblyReference.cache
+D:\c sharp\Visual Studio 2015\CSharp6practise\CSharp6practise\obj\Debug\CSharp6practise.exe
+D:\c sharp\Visual Studio 2015\CSharp6practise\CSharp6practise\obj\Debug\CSharp6practise.pdb
